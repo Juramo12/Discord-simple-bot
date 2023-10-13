@@ -18,8 +18,8 @@ client.on('ready', () => {
 });
 
 client.on('messageCreate', message => {
-    if (message.content === 'hola') {
-      message.reply('¡Hola! ¿Cómo estás?');
+    if (message.content.toLowerCase === 'hi') {
+      message.reply('Hello!');
     }
   });
 
