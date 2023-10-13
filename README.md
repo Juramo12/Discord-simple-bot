@@ -7,7 +7,7 @@ A simple Discord bot that replys to your messages.
 
 # Setup
 
-## Set up your bot.
+## Inviting your bot.
 
 1. Go to [Discord Developer Applications](https://discord.com/developers/applications) and create an application.
 2. Go to **Bot**
@@ -18,6 +18,11 @@ A simple Discord bot that replys to your messages.
 
 
 ![image](https://github.com/Juramo12/Discord-simple-bot/assets/146260388/090b756e-c445-45b2-b2d6-3542400e1a59)
+
+7. Scroll down and copy the lonk created and paste it on your browser, and invite the bot to the server that you want. (You will need perms to put the bot in the server)
+
+
+## Setting up the bot
 
 
 
