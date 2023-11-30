@@ -38,7 +38,7 @@ And paste the link here ![image](https://github.com/Juramo12/Discord-simple-bot/
 
 2. Go to `.env` and paste the token of your bot there.
 3. Open a new terminal with **Ctrl + Shift + `**
-4. Lastly, in the treminal you have to type **node .**
+4. Lastly, in the terminal you have to type **node .**
 
 If you did everything correctly, a message should pop up saying that the bot is connected.
 
